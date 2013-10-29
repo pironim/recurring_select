@@ -1,6 +1,6 @@
 ru:
   recurring_select:
-    not_recurring: "- не повторяется -"
+    not_recurring: "- не указано -"
     change_schedule: "Изменить расписание..."
     set_schedule: "Установить расписание..."
     new_custom_schedule: "Новое расписание..."

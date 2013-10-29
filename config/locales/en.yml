@@ -1,6 +1,6 @@
 en:
   recurring_select:
-    not_recurring: "- not recurring -"
+    not_recurring: "- not defined -"
     change_schedule: "Change schedule..."
     set_schedule: "Set schedule..."
     new_custom_schedule: "New custom schedule..."
