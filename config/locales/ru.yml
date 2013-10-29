@@ -1,0 +1,8 @@
+ru:
+  recurring_select:
+    not_recurring: "- не повторяется -"
+    change_schedule: "Изменить расписание..."
+    set_schedule: "Установить расписание..."
+    new_custom_schedule: "Новое расписание..."
+    custom_schedule: "Измененное расписание..."
+    or: 'или'
